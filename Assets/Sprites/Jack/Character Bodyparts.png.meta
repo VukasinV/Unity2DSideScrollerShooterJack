@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: e977791c281fb8544ac8eb1dcfe96ec9
+timeCreated: 1514490109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pocket
+    21300002: Knife
+    21300004: Head
+    21300006: Hair
+    21300008: Helmet
+    21300010: Holester
+    21300012: Pistol
+    21300014: Neck
+    21300016: Left foot
+    21300018: Right fot
+    21300020: Gun
+    21300022: Torso
+    21300024: Left leg
+    21300026: Right leg
+    21300028: Shirt
+    21300030: Left Kneepad
+    21300032: Right Kneepad
+    21300034: Character Bodyparts_17
+    21300036: Left arm
+    21300038: Left hand
+    21300040: Right arm
+    21300042: Right hand
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pocket
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 598
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knife
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 570
+        width: 38
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 470
+        width: 163
+        height: 200
+      alignment: 9
+      pivot: {x: 0.18967086, y: 0.290856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hair
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 602
+        width: 285
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Helmet
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 630
+        width: 272
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Holester
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 501
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 470
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neck
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 443
+        width: 132
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5589553, y: 0.20353974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left foot
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 534
+        width: 125
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3365757, y: 0.6523607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right fot
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 534
+        width: 122
+        height: 83
+      alignment: 9
+      pivot: {x: 0.22890235, y: 0.5820401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 289
+        width: 220
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 213
+        width: 154
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5126335, y: 0.011291431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left leg
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 341
+        width: 122
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5318944, y: 0.93463916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right leg
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 340
+        width: 116
+        height: 141
+      alignment: 9
+      pivot: {x: 0.21488005, y: 0.9553359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirt
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 158
+        height: 210
+      alignment: 9
+      pivot: {x: 0.52462673, y: 0.01361876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left Kneepad
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 257
+        width: 108
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7972339, y: 0.48480082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right Kneepad
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 257
+        width: 106
+        height: 50
+      alignment: 9
+      pivot: {x: 0.79366434, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character Bodyparts_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 54
+        width: 119
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left arm
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 43
+        width: 136
+        height: 172
+      alignment: 9
+      pivot: {x: 0.34264195, y: 0.72622406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left hand
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 141
+        height: 81
+      alignment: 9
+      pivot: {x: 0.15504877, y: 0.74018824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right arm
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 52
+        width: 197
+        height: 176
+      alignment: 9
+      pivot: {x: 0.2136026, y: 0.7763531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right hand
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 52
+        width: 60
+        height: 64
+      alignment: 9
+      pivot: {x: 0.24059652, y: 0.25680947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
